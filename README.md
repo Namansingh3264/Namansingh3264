@@ -60,18 +60,10 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Namansingh3264&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Namansingh3264&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namansingh3264&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Namansingh3264&theme=tokyonight&hide_border=true" />
