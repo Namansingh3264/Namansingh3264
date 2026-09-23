@@ -2,9 +2,17 @@
 <h3 align="center">Full Stack Developer | Competitive Programmer | Building things that scale</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/naman-singh-a068972b2"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:namankumar171005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://reddit.com/user/Alert_Spirit_7959"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/naman-singh-a068972b" style="text-decoration:none;">
+    <img width="120" height="28" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:namankumar171005@gmail.com" style="text-decoration:none;">
+    <img width="120" height="28" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/NamanSingh2488" style="text-decoration:none;">
+    <img width="120" height="28" src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
 </p>
 
 ---
